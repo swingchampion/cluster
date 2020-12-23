@@ -7,6 +7,6 @@
 	<key>popcorn_show_base</key>
 	<string>https://tv-v2.api-fetch.sh</string>
 	<key>popcorn_movie_base_beta</key>
-	<string>https://movies-v2.api-fetch.sh</string>
+	<string>http://popcorn-ru.tk</string>
 </dict>
 </plist>
