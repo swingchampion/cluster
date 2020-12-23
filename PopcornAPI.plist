@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>popcorn_movie_base</key>
-	<string>http://popcorn-ru.tk</string>
+	<string>https://movies-v2.api-fetch.sh</string>
 	<key>popcorn_show_base</key>
 	<string>https://tv-v2.api-fetch.sh</string>
 	<key>popcorn_movie_base_beta</key>
